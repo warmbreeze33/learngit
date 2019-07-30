@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 merge with no Fast forward
 bwd branch
 2 modify
+aaa
